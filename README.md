@@ -1,4 +1,4 @@
-# Movie Database Website
+# Movie Database Web Application
 ## Frontend: React <br />
 ## Backend: Java Spring Boot <br />
 ## Database: MongoDB <br />
